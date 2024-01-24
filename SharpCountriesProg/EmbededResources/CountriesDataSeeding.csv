@@ -1,0 +1,118 @@
+﻿Id,Name,Capital,SurfaceAreaKm2,PopulationMln,President,Currency
+1,Afghanistan,Kabul,652230,38,Ashraf Ghani,Afghani
+2,Albania,Tirana (Tirane),28748,2.87,Ilir Meta,Lek
+3,Algeria,Algiers,2381741,44.6,Abdelmadjid Tebboune,Algerian Dinar
+4,Andorra,Andorra la Vella,468,0.08,Joan Enric Vives SicÃ­lia,Euro
+5,Angola,Luanda,1246700,32.9,JoÃ£o LourenÃ§o,Angolan Kwanza
+6,Antigua and Barbuda,Saint John's,442,0.1,Gaston Browne,East Caribbean Dollar
+7,Argentina,Buenos Aires,2780400,45.4,Alberto FernÃ¡ndez,Argentine Peso
+8,Armenia,Yerevan,29743,2.96,Armen Sarkissian,Armenian Dram
+9,Australia,Canberra,7692024,25.9,Scott Morrison,Australian Dollar
+10,Austria,Vienna,83879,8.9,Alexander Van der Bellen,Euro
+11,Azerbaijan,Baku,86600,10.2,Ilham Aliyev,Azerbaijani Manat
+12,Bahamas,Nassau,13880,0.39,Hubert Minnis,Bahamian Dollar
+13,Bahrain,Manama,760,1.7,Hamad bin Isa Al Khalifa,Bahraini Dinar
+14,Bangladesh,Dhaka,147570,165.7,Abdul Hamid,Bangladeshi Taka
+15,Barbados,Bridgetown,430,0.29,Mia Mottley,Barbadian Dollar
+16,Belarus,Minsk,207600,9.4,Alyaksandr Lukashenka,Belarusian Ruble
+17,Belgium,Brussels,30528,11.5,Alexander De Croo,Euro
+18,Belize,Belmopan,22966,0.4,Johnny BriceÃ±o,Belize Dollar
+19,Benin,Porto Novo,112622,12.1,Patrice Talon,West African CFA franc
+20,Bhutan,Thimphu,38394,0.8,Jigme Khesar Namgyel Wangchuck,Bhutanese Ngultrum
+21,Bolivia,La Paz,1098581,11.4,Luis Arce,Boliviano
+22,Bosnia and Herzegovina,Sarajevo,51197,3.3,Å efik DÅ¾aferoviÄ‡,Bosnia and Herzegovina Convertible Mark
+23,Botswana,Gaborone,581730,2.4,Mokgweetsi Masisi,Botswana Pula
+24,Brazil,Brasilia,8515767,212.6,Jair Bolsonaro,Brazilian Real
+25,Brunei,Bandar Seri Begawan,5765,0.4,Hassanal Bolkiah,Brunei Dollar
+26,Bulgaria,Sofia,110879,6.9,Rumen Radev,Bulgarian Lev
+27,Burkina Faso,Ouagadougou,274200,20.3,Roch Marc Christian KaborÃ©,West African CFA franc
+28,Burundi,Gitega,27834,11.5,Evariste Ndayishimiye,Burundian Franc
+29,Cambodia,Phnom Penh,181035,16.5,King Norodom Sihamoni,Cambodian Riel
+30,Cameroon,Yaounde,475442,26.5,Paul Biya,Central African CFA franc
+31,Canada,Ottawa,9976140,38.4,Justin Trudeau,Canadian Dollar
+32,Cape Verde,Praia,4033,0.5,Jorge Carlos Fonseca,Cape Verdean Escudo
+33,Central African Republic,Bangui,622984,4.7,Catherine Samba-Panza,Central African CFA franc
+34,Chad,N'Djamena,1284000,16.4,Idriss DÃ©by, Central African CFA franc
+35,Chile,Santiago,756102,19.2,SebastiÃ¡n PiÃ±era,Chilean Peso
+36,China,Beijing,9596960,1444,Xi Jinping,Chinese Yuan
+37,Colombia,Bogota,1141748,50.9,IvÃ¡n Duque,Colombian Peso
+38,Comoros,Moroni,1861,0.9,Azali Assoumani,Comorian Franc
+39,Costa Rica,San Jose,51100,5.1,Carlos Alvarado Quesada,Costa Rican ColÃ³n
+40,Croatia,Zagreb,56594,4.1,Zoran MilanoviÄ‡,Croatian Kuna
+41,Cuba,Havana,109884,11.2,Miguel DÃ­az-Canel,Cuban Peso
+42,Cyprus,Nicosia,9251,1.2,Nicos Anastasiades,Euro
+43,Czech Republic (Czechia),Prague,78867,10.7,MiloÅ¡ Zeman,Czech Koruna
+44,Denmark,Copenhagen,42433,5.8,Mette Frederiksen,Danish Krone
+45,Djibouti,Djibouti,23000,1,Ismail Omar Guelleh,Djiboutian Franc
+46,Dominica,Roseau,751,0.1,Charles Savarin,East Caribbean Dollar
+47,Dominican Republic,Santo Domingo,48671,10.8,Luis Abinader,Dominican Peso
+48,East Timor,Dili,14874,1.3,Francisco Guterres,United States Dollar
+49,Ecuador,Quito,276841,17.1,LenÃ­n Moreno,United States Dollar
+50,Egypt,Cairo,1002450,101.7,Abdel Fattah el-Sisi,Egyptian Pound
+51,El Salvador,San Salvador,21041,6.5,Nayib Bukele,United States Dollar
+52,England,London,130395,56.3,Queen Elizabeth II,British Pound
+53,Equatorial Guinea,Malabo,28051,1.4,Teodoro Obiang Nguema Mbasogo, Central African CFA franc
+54,Eritrea,Asmara,117600,3.6,Isaias Afwerki,Eritrean Nakfa
+55,Estonia,Tallinn,45339,1.3,Kersti Kaljulaid,Euro
+56,Eswatini (Swaziland),Mbabane,17364,1.1,Mswati III,Lilangeni
+57,Ethiopia,Addis Ababa,1104300,118.4,Sahle-Work Zewde,Ethiopian Birr
+58,Federated States of Micronesia,Palikir,702,0.1,David W. Panuelo,United States Dollar
+59,Fiji,Suva,18274,0.9,Jioji Konrote,Fijian Dollar
+60,Finland,Helsinki,338145,5.5,Sauli Vainamo NiinistÃ,Euro
+61,France,Paris,551695,67.1,Emmanuel Macron,Euro
+62,Gabon,Libreville,267667,2.2,Ali Bongo Ondimba,Central African CFA franc
+63,Gambia,Banjul,10689,2.4,Adama Barrow,Gambian Dalasi
+64,Georgia,Tbilisi,69700,3.7,Salome Zurabishvili,Georgian Lari
+65,Germany,Berlin,357022,83.2,Frank-Walter Steinmeier,Euro
+66,Ghana,Accra,238535,31.4,Nana Akufo-Addo,Ghanaian Cedi
+67,Greece,Athens,131957,10.4,Katerina Sakellaropoulou,Euro
+68,Grenada,Saint George's,344,0.1,Charles Angelo Savarin,East Caribbean Dollar
+69,Guatemala,"Guate mala City",108889,17.8,Alejandro Giammattei,Guatemalan Quetzal
+70,Guinea,Conakry,245857,12.4,Alpha CondÃ©,Guinean Franc
+71,Guinea-Bissau,Bissau,36125,2,Umaro Sissoco EmbalÃ³,West African CFA franc
+72,Guyana,Georgetown,214969,0.8,irfaan Ali,Guyanese Dollar
+73,Haiti,Port-au-Prince,27750,11.4,Jovenel MoÃ¯se,Haitian Gourde
+74,Honduras,Tegucigalpa,112492,10.2,Juan Orlando HernÃ¡ndez,Honduran Lempira
+75,Hungary,Budapest,93028,9.7,JÃ¡nos Ãder,Hungarian Forint
+76,Iceland,Reykjavik,103000,0.4,Gudni Thorlacius Johannesson,Icelandic KrÃ³na
+77,India,New Delhi,3287263,1393,Ram Nath Kovind,Indian Rupee
+78,Indonesia,Jakarta,1904569,276.4,Joko Widodo,Indonesian Rupiah
+79,Iran,Tehran,1648195,83.9,Hassan Rouhani,Iranian Rial
+80,Iraq,Baghdad,438317,39.3,Barham Salih,Iraqi Dinar
+81,Ireland,Dublin,70273,4.9,Michael D. Higgins,Euro
+82,Israel,Jerusalem,20770,9.2,Reuven Rivlin,Israeli New Shekel
+83,Italy,Rome,301340,60.3,Sergio Mattarella,Euro
+84,Jamaica,Kingston,10991,2.9,Andrew Holness,Jamaican Dollar
+85,Japan,Tokyo,377975,126,Naruhito,Japanese Yen
+86,Jordan,Amman,89342,10.1,Abdullah II bin Al-Hussein,Jordanian Dinar
+87,Kazakhstan,Nur-Sultan,2724900,18.8,Kassym-Jomart Tokayev,Kazakhstani Tenge
+88,Kenya,Nairobi,580367,54,Uhuru Kenyatta,Kenyan Shilling
+89,Kiribati,Tarawa Atoll,811,0.1,Taneti Maamau,Australian Dollar
+90,Kosovo,Pristina,10908,1.8,Vjosa Osmani,Euro
+91,Kuwait,Kuwait City,17818,4.3,Jaber Al-Ahmad Al-Sabah,Kuwaiti Dinar
+92,Kyrgyzstan,Bishkek,199951,6.7,Sadyr Japarov,Kyrgyzstani Som
+93,Laos,Vientiane,236800,7.4,Thongloun Sisoulith,Lao Kip
+94,Latvia,Riga,64589,1.9,Egils Levits,Euro
+95,Lebanon,Beirut,10452,6.8,Michel Aoun,Lebanese Pound
+96,Lesotho,Maseru,30355,2.1,Moeketsi Majoro,Lesotho Loti
+97,Liberia,Monrovia,111369,5.1,George Weah,Liberian Dollar
+98,Libya,Tripoli,1759540,6.7,Abdul Hamid Dbeibeh,Libyan Dinar
+99,Liechtenstein,Vaduz,160,0.04,Hans-Adam II,Swiss Franc
+100,Lithuania,Vilnius,65300,2.8,Gitanas NausÄ—da,Euro
+101,Luxembourg,Luxembourg,2586,0.6,Grand Duke Henri,Euro
+102,Madagascar, Antananarivo,587041,27.4,Andry Rajoelina,Malagasy Ariary
+103,Malawi,Lilongwe,118484,19.1,Lazarus Chakwera,Malawian Kwacha
+104,Malaysia,Kuala Lumpur,330803,32.4,Abdul Hamid Bador,Malaysian Ringgit
+105,Maldives,Male,298,0.5,Ibrahim Mohamed Solih,Maldivian Rufiyaa
+106,Mali,Bamako,1240192,20.3,Bah N'Daw,West African CFA franc
+107,Malta,Valletta,316,0.5,George Vella,Euro
+108,Marshall Islands,Majuro,181,0.06,David Kabua,United States Dollar
+109,Mauritania,Nouakchott,1030700,4.6,Mohamed Ould Ghazouani,Mauritanian Ouguiya
+110,Mauritius,Port Louis,2040,1.3,Prithvirajsing Roopun,Mauritian Rupee
+111,Mexico,Mexico City,1964375,126.2,AndrÃ©s Manuel LÃ³pez Obrador,Mexican Peso
+112,Moldova,Chisinau,33846,2.6,Maia Sandu,Moldovan Leu
+113,Monaco,Monte Carlo,2,0.04,Albert II of Monaco,Euro
+114,Mongolia,Ulaanbaatar,1564116,3.3,Khaltmaagiin Battulga,Mongolian Tugrik
+115,Montenegro,Podgorica,13812,0.6,Milo ÄukanoviÄ‡,Euro
+116,Morocco,Rabat,446550,37.3,Mohammed VI,Moroccan Dirham
+117,Mozambique,Maputo,801590,31.4,Philipe Nyusi,Mozambican Met

@@ -1,0 +1,12 @@
+﻿<explorer>
+  <item Id="1" Name="Afghanistan" Capital="Kabul" SurfaceAreaKm2="652230" PopulationMln="38" President="Ashraf Ghani" Currency="Afghani" />
+  <item Id="2" Name="Albania" Capital="Tirana (Tirane)" SurfaceAreaKm2="28748" PopulationMln="2.87" President="Ilir Meta" Currency="Lek" />
+  <item Id="3" Name="Algeria" Capital="Algiers" SurfaceAreaKm2="2381741" PopulationMln="44.6" President="Abdelmadjid Tebboune" Currency="Algerian Dinar" />
+  <item Id="4" Name="Andorra" Capital="Andorra la Vella" SurfaceAreaKm2="468" PopulationMln="0.08" President="Joan Enric Vives SicÃ­lia" Currency="Euro" />
+  <item Id="5" Name="Angola" Capital="Luanda" SurfaceAreaKm2="1246700" PopulationMln="32.9" President="JoÃ£o LourenÃ§o" Currency="Angolan Kwanza" />
+  <item Id="6" Name="Antigua and Barbuda" Capital="Saint John's" SurfaceAreaKm2="442" PopulationMln="0.1" President="Gaston Browne" Currency="East Caribbean Dollar" />
+  <item Id="7" Name="Argentina" Capital="Buenos Aires" SurfaceAreaKm2="2780400" PopulationMln="45.4" President="Alberto FernÃ¡ndez" Currency="Argentine Peso" />
+  <item Id="8" Name="Armenia" Capital="Yerevan" SurfaceAreaKm2="29743" PopulationMln="2.96" President="Armen Sarkissian" Currency="Armenian Dram" />
+  <item Id="9" Name="Australia" Capital="Canberra" SurfaceAreaKm2="7692024" PopulationMln="25.9" President="Scott Morrison" Currency="Australian Dollar" />
+  <item Id="10" Name="Austria" Capital="Vienna" SurfaceAreaKm2="83879" PopulationMln="8.9" President="Alexander Van der Bellen" Currency="Euro" />
+</explorer>
