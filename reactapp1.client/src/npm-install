@@ -1,0 +1,11 @@
+npm install devextreme@23.2 devextreme-react@23.2 --save --save-exact
+
+//tree view (mui)
+  https://mui.com/x/react-tree-view/getting-started
+  npm install @mui/x-tree-view
+  npm install @mui/icons-material
+
+//tree view (devextreme)
+  https://js.devexpress.com/React/Documentation/Guide/UI_Components/TreeView/Getting_Started_with_TreeView
+  https://js.devexpress.com/React/Documentation/ApiReference/UI_Components/dxTreeView/Configuration
+  npm install devextreme@23.2 devextreme-react@23.2 --save --save-exact
