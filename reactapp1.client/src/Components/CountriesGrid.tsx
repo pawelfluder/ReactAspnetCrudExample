@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import '../App.css';
 
 interface Country {
@@ -83,22 +83,22 @@ function CountriesGrid() {
     input.click();
   };
   
-  const handleLoadXML = async () => {
-    const input = document.createElement('input');
-    input.type = 'file';
-  
-    input.addEventListener('change', async (event) => {
-      const file = (event.target as HTMLInputElement).files?.[0];
-  
-      if (file) {
-        const content = await readFileContent(file);
-        console.log('Loaded XML data:', content);
-      }
-    });
-  
-    // Trigger file input click
-    input.click();
-  };
+  // const handleLoadXML = async () => {
+  //   const input = document.createElement('input');
+  //   input.type = 'file';
+  //
+  //   input.addEventListener('change', async (event) => {
+  //     const file = (event.target as HTMLInputElement).files?.[0];
+  //
+  //     if (file) {
+  //       const content = await readFileContent(file);
+  //       console.log('Loaded XML data:', content);
+  //     }
+  //   });
+  //
+  //   // Trigger file input click
+  //   input.click();
+  // };
   
   const readFileContent = (file: File): Promise<string> => {
     return new Promise((resolve, reject) => {

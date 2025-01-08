@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import TreeView from "./TreeViewXml.tsx"; // zmiana nazwy pliku
-import xmlData from "../Data/XmlData.tsx"; // dane XML
+//import xmlData from "../Data/XmlData.tsx"; // dane XML
 import useTraverseTree, { ExplorerItem } from "./UseTraverseTreeXml.tsx"; 
 import xmlJs from 'xml-js';
 
@@ -44,7 +44,7 @@ function CountriesTree() {
         let result = JSON.parse(jsonData);
       
         console.log("CountriesTree; response.json()");
-        var type2 = typeof(result);
+        //var type2 = typeof(result);
         var el = result.elements;
         var el0 = el[0];
         setExplorerData({

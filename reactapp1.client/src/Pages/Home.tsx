@@ -5,14 +5,14 @@ import CountriesGrid from "../Components/CountriesGrid.tsx";
 import CountriesTree from "../TraverseTreeXml/CountriesTreeXml.tsx";
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
-import { TreeView } from '@mui/x-tree-view/TreeView';
+import { SimpleTreeView } from '@mui/x-tree-view/SimpleTreeView';
 import { TreeItem } from '@mui/x-tree-view/TreeItem';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import ChevronRightIcon from '@mui/icons-material/ChevronRight';
+// import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+// import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 
-import jsonData from "../Data/JsonData.tsx";
-import xmlData from "../Data/XmlData.tsx";
-
+// import jsonData from "../Data/JsonData.tsx";
+// import xmlData from "../Data/XmlData.tsx";
+//
 import TreeView2 from 'devextreme-react/tree-view';
 
 const Home: React.FC = () => {
@@ -41,21 +41,21 @@ const Home: React.FC = () => {
 
           <TabPanel>
             <h2>Countries Tree2</h2>
-            <TreeView
+            <SimpleTreeView
               aria-label="file system navigator"
-              defaultCollapseIcon={<ExpandMoreIcon />}
-              defaultExpandIcon={<ChevronRightIcon />}
+              // defaultCollapseIcon={<ExpandMoreIcon />}
+              // defaultExpandIcon={<ChevronRightIcon />}
             >
-              <TreeItem nodeId="1" label="Applications">
-                <TreeItem nodeId="2" label="Calendar" />
+              <TreeItem itemId="1" label="Applications">
+                <TreeItem itemId="2" label="Calendar" />
               </TreeItem>
-              <TreeItem nodeId="5" label="Documents">
-                <TreeItem nodeId="10" label="OSS" />
-                <TreeItem nodeId="6" label="MUI">
-                  <TreeItem nodeId="8" label="index.js" />
+              <TreeItem itemId="5" label="Documents">
+                <TreeItem itemId="10" label="OSS" />
+                <TreeItem itemId="6" label="MUI">
+                  <TreeItem itemId="8" label="index.js" />
                 </TreeItem>
               </TreeItem>
-              </TreeView>
+              </SimpleTreeView>
             
           </TabPanel>
 

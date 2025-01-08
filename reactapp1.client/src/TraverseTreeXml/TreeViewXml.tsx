@@ -1,4 +1,4 @@
-import React, { useState, KeyboardEvent } from "react";
+import React, { useState } from "react";
 
 interface FolderProps {
   handleInsertNode: (id: string, value: string, isFolder: boolean) => void;

@@ -1,5 +1,3 @@
-npm install devextreme@23.2 devextreme-react@23.2 --save --save-exact
-
 //tree view (mui)
   https://mui.com/x/react-tree-view/getting-started
   npm install @mui/x-tree-view
